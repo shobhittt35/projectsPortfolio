@@ -10,6 +10,7 @@ Proficient in Python, Excel, SQL and Power BI.
 Python: cleaning, data analysis, visualizations, functions, loops, Libraries: NumPy, Pandas, Matplotlib, Seaborn.
 
 SQL: MySQL, DDL, DML, TCL, aggregate functions, JOINS, window function(basics)
+
 Power BI: Dashboards
 
 
