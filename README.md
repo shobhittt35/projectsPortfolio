@@ -15,5 +15,6 @@ Power BI: Dashboards
 
 # dataset links
 HR analytics dataset : https://www.kaggle.com/datasets/priykushwaha/hr-dataset
+stackoverflow survey dataset : https://insights.stackoverflow.com/survey
 
 
