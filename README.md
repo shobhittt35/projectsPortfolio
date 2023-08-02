@@ -13,4 +13,7 @@ SQL: MySQL, DDL, DML, TCL, aggregate functions, JOINS, window function(basics)
 
 Power BI: Dashboards
 
+# dataset links
+HR analytics dataset : https://www.kaggle.com/datasets/priykushwaha/hr-dataset
+
 
